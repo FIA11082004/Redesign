@@ -23,6 +23,6 @@ Revisi atau Penggantian Gambar: Jika gambar yang sudah disertakan tidak relevan,
 
 
 
-![image] (Gambar Redesign/sesudah.png)
+! [image](media/sesudah.png)
 
 
