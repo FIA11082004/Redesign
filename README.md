@@ -21,4 +21,4 @@ Revisi atau Penggantian Gambar: Jika gambar yang sudah disertakan tidak relevan,
 
 
 
-![Alt text](/media/sesudah.png)
+![Alt text](https://github.com/FIA11082004/Redesign/tree/main/Gambar%20Redesign)
